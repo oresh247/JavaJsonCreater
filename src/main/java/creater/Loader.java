@@ -1,6 +1,6 @@
 package creater;
 
-public class Greeter {
+public class Loader {
     public String sayHello() {
         return "Hello world!";
     }
